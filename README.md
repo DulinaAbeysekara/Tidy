@@ -2,6 +2,18 @@
 
 A simple command-line tool that scans a folder and automatically sorts files into categorized subfolders — no configuration needed.
 
+## 🚀 Quick Start
+
+1. Download `tidy.py` and place it anywhere on your system
+2. Open a terminal and navigate to the folder you want to organize
+3. Run:
+```bash
+   python tidy.py
+```
+   That's it — your files will be sorted into subfolders automatically.
+
+> Tip: Use `--dry-run` first to preview what will move before committing.
+
 ## ✨ Features
 
 - Sorts files into **12 categories** (Images, Videos, Audio, Documents, Archives, and more)
